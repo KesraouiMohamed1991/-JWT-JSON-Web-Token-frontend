@@ -1,6 +1,4 @@
-Parfait, voici une version claire et structurée de l’introduction à mettre dans ton `README.md` :
 
----
 
 # JWT Fullstack Demo
 
