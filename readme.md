@@ -14,6 +14,3 @@ You’ll learn how to:
 
 > Ideal for beginners who want to build a solid foundation in authentication workflows and web security best practices.
 
----
-
-Souhaites-tu que je t’ajoute ensuite une structure complète du README avec installation, architecture, endpoints, etc. ?
